@@ -1,1 +1,3 @@
-# setup
+## Setup
+
+[Atom config](/atom)
